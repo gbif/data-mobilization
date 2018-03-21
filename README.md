@@ -1,4 +1,4 @@
-# Suggest a dataset tool (prototype)
+# Suggest a dataset tool
 
 ## Introduction and Vision
 This repository is intended to be a tool for capturing, discussing and managing the mobilization of potential datasets suitable for publishing to GBIF. The GBIF network actively strives to fill gaps in the open-access biodiversity data we provide, and in fact, it's part of our current [Strategic Plan for 2017 - 2021. ](http://www.gbif.org/sites/default/files/documents/Approved_Strategic_Plan_2017-2021.pdf) Users of our tools and services often have expert knowledge about given regions or taxa/species. We welcome your help in identifying other data sources capable of improving the quality, transparency and reproducibility of scientific research and policy supported by GBIF.
