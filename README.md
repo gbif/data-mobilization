@@ -1,13 +1,13 @@
 # Suggest a dataset tool
 
 ## Introduction and Vision
-This repository is intended to be a tool for capturing, discussing and managing the mobilization of potential datasets suitable for publishing to GBIF. The GBIF network actively strives to fill gaps in the open-access biodiversity data we provide, and in fact, it's part of our current [Strategic Plan for 2017 - 2021. ](http://www.gbif.org/sites/default/files/documents/Approved_Strategic_Plan_2017-2021.pdf) Users of our tools and services often have expert knowledge about given regions or taxa/species. We welcome your help in identifying other data sources capable of improving the quality, transparency and reproducibility of scientific research and policy supported by GBIF.
+This repository is intended to be a tool for capturing, discussing and managing the mobilization of potential datasets suitable for publishing to GBIF. The GBIF network actively strives to fill gaps in the open-access biodiversity data we provide, and the work was initiated under the [Strategic Plan for 2017 - 2021. ](http://www.gbif.org/sites/default/files/documents/Approved_Strategic_Plan_2017-2021.pdf) Users of GBIFs tools and services often have expert knowledge about given regions or taxa/species. We welcome your help in identifying other data sources capable of improving the quality, transparency and reproducibility of scientific research and policy supported by GBIF.
 
 ## Where to look for datasets?
 Potential datasets may already be online, for example, datasets deposited in an online repository as part of supplementary material of a journal paper. Others may be datasets generated as part of taxonomic research or biodiversity monitoring projects but are not being shared. In some cases the datasets may be offline, sitting on individual's or institutional hard disks or servers and could be lost forever if they're not published in standardized format and rescued from digital darkness.  
 
 ## How to report? 
-Please share what you know about datasets you'd like us to consider adding by logging them using the [Suggest a dataset tool](https://demo.gbif.org/tools/suggest-dataset). Only three fields, namely, title, geographic coverage and taxonomic scope are mandatory. Although all other fields are optional, please try and provide as much information as possible to facilitate follow-ups. 
+Please share what you know about datasets you'd like us to consider adding by logging them using the [Suggest a dataset tool](https://demo.gbif.org/tools/suggest-dataset) or create a new issue in this repository. Only three fields, namely, title, geographic coverage and taxonomic scope are mandatory. Although all other fields are optional, please try and provide as much information as possible to facilitate follow-ups. 
   
 In keeping with our commitment to openness, your submission will appear as a GitHub issue, where you and others interested in increasing open access to biodiversity data can follow and add to it. For our part, we will work with our network of members and publishers to contact the data holders and explore their interest in publishing their data through GBIF.org.
 
