@@ -15,5 +15,5 @@ In keeping with our commitment to openness, your submission will appear as a Git
 
 GBIF has developed a [management workflow](https://github.com/gbif/data-mobilization/wiki/ManagerInstructions) that ensures that what is reported here can be acted upon in a timely and orderly manner. Part of this process involves designating labels or tags to help in sorting and assigning issues for action. The workflow also include ways to avoid duplication of effort if more than one entity is interested in making and acting on a given issue/dataset. We'll gladly appreciate if you can give us feedback on this workflow - thank you!  
 
-## How to get involved in mobilizing datasts?
+## How to get involved in mobilizing datasets?
 Node managers, Node staff, dataset mobilizers, or data publishers are more than welcome to get involved in mobilizing datasets. To start managing or performing the actual mobilization work, simply follow [these instructions](https://github.com/gbif/data-mobilization/wiki/MobilizerInstructions).
